@@ -1,7 +1,7 @@
 Scala Spreadsheet Tutorial
 =========
 
-An sbt project containing slightly adapted code from the tutorial in the last chapter of Programming in Scala, in order to account for changes bought in by 2.11
+An sbt project containing slightly adapted code from the tutorial in the last chapter of Programming in Scala, in order to account for changes brought in by 2.11
 
 One of the major changes is that parser combinators and scala.swing are no longer part of the core, and must be added as dependencies using a build tool such as sbt.
 
